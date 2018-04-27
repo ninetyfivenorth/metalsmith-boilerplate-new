@@ -1,5 +1,7 @@
 # Metalsmith boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ninetyfivenorth/metalsmith-boilerplate-new.svg)](https://greenkeeper.io/)
+
 A setup to get you up-and-running with Metalsmith. Includes offline-support.
 
 ## Getting started:
